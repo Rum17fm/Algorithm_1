@@ -26,8 +26,8 @@ int main()
 			shet = shet + 1;
 		}
 		cout << shet << endl;
-		return 0
-
+		
+	return 0
 	}
 
 
