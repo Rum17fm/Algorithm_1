@@ -27,7 +27,7 @@ int main()
 		}
 		cout << shet << endl;
 		
-	return 0
+	return 0;
 	}
 
 
